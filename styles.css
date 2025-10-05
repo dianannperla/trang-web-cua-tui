@@ -40,4 +40,5 @@ footer {
     position: relative; /* Changed from absolute to relative */
     width: 100%;
     bottom: 0;
+    border-top: 2px solid #ccc; /* Added top border for separation */
 }
