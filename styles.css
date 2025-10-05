@@ -41,4 +41,6 @@ footer {
     width: 100%;
     bottom: 0;
     border-top: 2px solid #ccc; /* Added top border for separation */
+    font-size: 14px; /* Added font size for better readability */
+    color: #555; /* Changed text color for improved contrast */
 }
