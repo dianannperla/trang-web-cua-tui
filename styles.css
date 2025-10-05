@@ -35,12 +35,12 @@ h2 {
 
 footer {
     text-align: center;
-    padding: 15px; /* Increased padding for better visibility */
-    background: #eaeaea; /* Lightened background color for contrast */
-    position: relative; /* Changed from absolute to relative */
+    padding: 15px;
+    background: #eaeaea;
+    position: relative;
     width: 100%;
     bottom: 0;
-    border-top: 2px solid #ccc; /* Added top border for separation */
-    font-size: 14px; /* Added font size for better readability */
-    color: #555; /* Changed text color for improved contrast */
+    border-top: 2px solid #ccc;
+    font-size: 14px;
+    color: #555;
 }
