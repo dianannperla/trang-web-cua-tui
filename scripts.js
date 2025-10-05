@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Trang Web Của Tôi đã được tải thành công!');
+    console.log('My Website has loaded successfully!');
 });
