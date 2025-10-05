@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('My Website has loaded successfully!');
+    console.log('The website has fully loaded!');
 });
